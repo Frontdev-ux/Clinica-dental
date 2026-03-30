@@ -1,7 +1,0 @@
-Pendientes recomendados antes de publicar en producción:
-
-1. Confirmar si 011 6752-3939 es también el número oficial de WhatsApp.
-2. Confirmar horario final visible al público.
-3. Reemplazar el monograma de cabecera por el logo oficial en alta calidad si lo tienen.
-4. Confirmar si desean agregar agenda online, obras sociales/prepagas o email.
-5. Revisar derechos y autorización de uso de las imágenes extraídas del PDF compartido.
